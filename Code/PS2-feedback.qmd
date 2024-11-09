@@ -1,0 +1,16 @@
+---
+title: "PS2 feedback"
+format: html
+editor: visual
+---
+
+## PS2 feedback
+I'd like to see a bit more commentary about what you learn from code chunks that you execute. For example, after line 21, tell me (and more importantly, future you) what you learned from your two functions examining the data.
+
+I'm not certain why you decided that there needed to be fixes to the costume column.
+
+You did a good job error checking the factor variables, but didn't do any error checking of numeric variables.
+
+You are doing a very nice job with the spacing of your code within code chunks - it is very readable!
+
+Nice job overall!
